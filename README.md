@@ -19,7 +19,7 @@
 
 <p align="center">
   Desenvolvimento de software · dados e automação · IA aplicada ao Direito<br>
-  O Direito foi o ponto de partida e segue como diferencial, sobretudo em Compliance e regras de negócio.
+  O Direito foi o ponto de partida e segue como diferencial, sobretudo em compliance e regras de negócio.
 </p>
 
 <h3 align="center">Estudando</h3>
