@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou o Renato</h1>
+<h1 align="center">Olá, sou Renato</h1>
 
 <p align="center">
   <img src="https://github.com/renato-veras.png?size=120" alt="Renato Veras" width="120" height="120">
@@ -19,7 +19,7 @@
 
 <p align="center">
   Desenvolvimento de software · dados e automação · IA aplicada ao Direito<br>
-  O Direito foi o ponto de partida e segue como diferencial, sobretudo em LGPD e regras de negócio.
+  O Direito foi o ponto de partida e segue como diferencial, sobretudo em Compliance e regras de negócio.
 </p>
 
 <h3 align="center">Estudando</h3>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
 </p>
 
-<p align="center"><sub>Nível básico, em formação</sub></p>
+<p align="center"><sub>Em formação</sub></p>
 
 <h3 align="center">O que estou fazendo</h3>
 
@@ -46,7 +46,7 @@
 
 <p align="center">
   Repositórios de estudo: Git, flexbox, modelagem de banco de dados e desafios da DIO.<br>
-  Não há aqui código de produção.
+  
 </p>
 
 ---
